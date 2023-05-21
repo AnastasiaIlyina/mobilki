@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">mobile3</string>
+    <string name="registration">Registration</string>
+    <string name="login">Login</string>
+    <string name="phone_code_placeholder">+7</string>
+    <string name="phone_placeholder">4206666969</string>
+    <string name="name">Username</string>
+    <string name="password">Password</string>
+    <string name="password_confirmation">Confirm password</string>
+    <string name="continue_string">Continue</string>
+    <string name="forgotPassword">Forgot password?</string>
+    <string name="keep_me_logged_in">Keep me logged in</string>
+</resources>
